@@ -9,6 +9,6 @@
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "latest",
-    "babel-preset-latest": "latest"
+    "babel-preset-env": "latest"
   }
 }
